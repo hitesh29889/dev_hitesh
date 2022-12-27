@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b9e85b6.css",
+    "main.css": "/static/css/main.9aa140cb.css",
     "main.js": "/static/js/main.319a90f4.js",
     "static/media/banner-2.jpg": "/static/media/banner-2.8c37e1d45f9984149076.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.5.0": "/static/media/fontawesome-webfont.ed6298903ae1554c7f3e.svg",
-    "static/media/Linearicons-Free.svg?w118d": "/static/media/Linearicons-Free.638c6c05cd657465ff11.svg",
+    "static/media/fontawesome-webfont.svg?v=4.5.0": "/static/media/fontawesome-webfont.3b270ae3f01b143951b0.svg",
+    "static/media/Linearicons-Free.svg?w118d": "/static/media/Linearicons-Free.4e7e7d737315790fbb14.svg",
     "static/media/fontawesome-webfont.ttf?v=4.5.0": "/static/media/fontawesome-webfont.f0af1680f082547a7aae.ttf",
     "static/media/personal.jpg": "/static/media/personal.5d30cdf7916c36319a54.jpg",
     "static/media/fontawesome-webfont.woff?v=4.5.0": "/static/media/fontawesome-webfont.f7f1738ca345185e0185.woff",
@@ -13,17 +13,17 @@
     "static/media/Linearicons-Free.eot": "/static/media/Linearicons-Free.eb992e965197b4672140.eot",
     "static/media/Linearicons-Free.woff?w118d": "/static/media/Linearicons-Free.a78a26fb0b18bc4cde28.woff",
     "static/media/Linearicons-Free.ttf?w118d": "/static/media/Linearicons-Free.5cbe0a85581dc42087ac.ttf",
-    "static/media/Flaticon.svg": "/static/media/Flaticon.c1bd56aa5f03caf199d8.svg",
+    "static/media/Flaticon.svg": "/static/media/Flaticon.a7268f8a594bdfe06a4c.svg",
     "static/media/Linearicons-Free.woff2?w118d": "/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
     "index.html": "/index.html",
     "static/media/Flaticon.eot": "/static/media/Flaticon.b815e39a06cbf9fb818c.eot",
     "static/media/Flaticon.ttf": "/static/media/Flaticon.202942764aa1f97fb634.ttf",
     "static/media/Flaticon.woff": "/static/media/Flaticon.4c73ab39e01e487cb4c2.woff",
-    "main.4b9e85b6.css.map": "/static/css/main.4b9e85b6.css.map",
+    "main.9aa140cb.css.map": "/static/css/main.9aa140cb.css.map",
     "main.319a90f4.js.map": "/static/js/main.319a90f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b9e85b6.css",
+    "static/css/main.9aa140cb.css",
     "static/js/main.319a90f4.js"
   ]
 }
